@@ -19,6 +19,7 @@
   "ResourceOrderSettings":[
     {"name":"ob_brokenColumn_lvl1","order":9,"path":"objects/ob_brokenColumn_lvl1/ob_brokenColumn_lvl1.yy",},
     {"name":"ob_column_lvl1","order":8,"path":"objects/ob_column_lvl1/ob_column_lvl1.yy",},
+    {"name":"ob_player","order":11,"path":"objects/ob_player/ob_player.yy",},
     {"name":"ob_portal","order":7,"path":"objects/ob_portal/ob_portal.yy",},
     {"name":"ob_TextColumn","order":10,"path":"objects/ob_TextColumn/ob_TextColumn.yy",},
     {"name":"obj_play_game","order":1,"path":"objects/obj_play_game/obj_play_game.yy",},
@@ -27,6 +28,7 @@
     {"name":"sp_brokeColumn_lvl1","order":17,"path":"sprites/sp_brokeColumn_lvl1/sp_brokeColumn_lvl1.yy",},
     {"name":"sp_column_lvl1","order":16,"path":"sprites/sp_column_lvl1/sp_column_lvl1.yy",},
     {"name":"sp_grass_lvl1","order":6,"path":"sprites/sp_grass_lvl1/sp_grass_lvl1.yy",},
+    {"name":"sp_player","order":19,"path":"sprites/sp_player/sp_player.yy",},
     {"name":"sp_plites_lvl1","order":4,"path":"sprites/sp_plites_lvl1/sp_plites_lvl1.yy",},
     {"name":"sp_portal","order":15,"path":"sprites/sp_portal/sp_portal.yy",},
     {"name":"sp_textColumn","order":18,"path":"sprites/sp_textColumn/sp_textColumn.yy",},
